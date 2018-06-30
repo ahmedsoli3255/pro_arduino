@@ -1,0 +1,4 @@
+my project is button to On/Off led and calculate the temperature Calculate the temperature every 3 minutes
+1. Plug components (LED, buttons, temperature sensitive) with arduino
+2. Thinking in a timing way instead of delay Because the delay works to freeze the microcontroller
+3. write the code.
